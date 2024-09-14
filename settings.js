@@ -4,20 +4,20 @@
 //Instagram: its_jeanparker
 //Telegram: t.me/Jeanparker100
 //GitHub: @Jeanparker100
-//WhatsApp: +22898133388
+//WhatsApp: +2349091878122 
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Jean-Parker-tech
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "22898133388"
+global.ownernomer = "2347048641826"
 global.ownername = "🩵 𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛"
 global.ytname = "YT: Jean-parker-tech"
 global.socialm = "GitHub: Jeanparker100"
 global.location = "Togo, maritime, Lomé"
 
-global.ownernumber = '22898133388'  //creator number
+global.ownernumber = 2347048641826'  //creator number
 global.ownername = '𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛' //owner name
 global.botname = '𝙿𝙰𝚁𝙺𝚈-𝙱𝚄𝙶-𝙱𝙾𝚃' //name of the bot
 
@@ -30,7 +30,7 @@ global.themeemoji = '🩵'
 global.wm = "𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛 in©"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VagLiHaEVccM6o6Sqc45'
+global.link = 'https://chat.whatsapp.com/G8aBi0Y8KwIEaQr6KJnylc'
 
 //custom prefix
 global.prefa = '.'
